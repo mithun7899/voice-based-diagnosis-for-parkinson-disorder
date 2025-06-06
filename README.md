@@ -24,3 +24,7 @@ Models demonstrate high accuracy and F1-scores, indicating strong performance. H
 - K Neighbors achieves good metric less than the other two yet less risk of overfitting.
 Given the performance of both models, either could be a suitable choice.
 
+
+## Output of the project
+<img src="C:\Users\pav\OneDrive\Pictures\Screenshots\Screenshot 2025-04-23 052406.png">
+
